@@ -12,7 +12,7 @@ A system-level thinker focused on the intersection of hardware reliability and A
 | :--- | :--- |
 | **Engineering & Hardware** | Altium Designer, Proteus, Embedded Systems, C/C++, C#, Power Distribution |
 | **AI-Augmented Development** | Python, Django, Node.js, Advanced Prompt Engineering, Workflow Automation |
-| **Visual & UI/UX Design** | Adobe Photoshop, Canva, Professional Video Editing, Tailwind CSS |
+| **Visual & UI/UX Design** | Adobe Photoshop, Canva, Figma, Google Stitch, Tailwind CSS |
 | **Systems & Infrastructure** | Linux (Ubuntu/WSL2), Docker, Home Server Management, Project Management |
 
 ---
