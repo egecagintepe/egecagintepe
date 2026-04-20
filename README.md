@@ -10,8 +10,8 @@ A system-level thinker focused on the intersection of hardware reliability and A
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Engineering & Hardware** | Altium Designer, Proteus, Embedded Systems Logic, Power Distribution |
-| **AI-Augmented Development** | Python, Django, Advanced Prompt Engineering, Workflow Automation |
+| **Engineering & Hardware** | Altium Designer, Proteus, Embedded Systems, C/C++, C#, Power Distribution |
+| **AI-Augmented Development** | Python, Django, Node.js, Advanced Prompt Engineering, Workflow Automation |
 | **Visual & UI/UX Design** | Adobe Photoshop, Canva, Professional Video Editing, Tailwind CSS |
 | **Systems & Infrastructure** | Linux (Ubuntu/WSL2), Docker, Home Server Management, Project Management |
 
@@ -30,7 +30,7 @@ A system-level thinker focused on the intersection of hardware reliability and A
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=egecagintepe&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" alt="Ege's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecagintepe&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecagintepe&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff&hide=dart,cmake,swift" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
@@ -40,4 +40,4 @@ A system-level thinker focused on the intersection of hardware reliability and A
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/egecagintepe/) | [NovZon](https://novzon.com)
+**Email:** [napryzon@gmail.com](mailto:napryzon@gmail.com) | **LinkedIn:** [linkedin.com/in/egecagintepe/](https://www.linkedin.com/in/egecagintepe/)
