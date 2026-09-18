@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">Operating Domains</title><desc id="d">Animated topology of Ege's engineering domains.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#091018"/><stop offset="1" stop-color="#0C1520"/></linearGradient>
+<linearGradient id="ln"><stop stop-color="#6DE7FF"/><stop offset="1" stop-color="#718FFF"/></linearGradient>
+<filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.m{font-family:"SFMono-Regular",Consolas,monospace}.s{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.flow{stroke-dasharray:7 15;animation:f 5s linear infinite}.pulse{animation:p 2.7s ease-in-out infinite}@keyframes f{to{stroke-dashoffset:-88}}@keyframes p{0%,100%{opacity:.35}50%{opacity:1}}</style>
+</defs>
+<rect x="1" y="1" width="1198" height="358" rx="22" fill="url(#bg)" stroke="#B8E9FF" stroke-opacity=".12"/>
+<text x="38" y="43" class="m" font-size="13" fill="#6E8497" letter-spacing="1.6">OPERATING DOMAINS // SYSTEM TOPOLOGY</text>
+<text x="38" y="76" class="s" font-size="26" font-weight="700" fill="#EDF7FF">I prefer systems that cross boundaries.</text>
+
+<g transform="translate(600 208)">
+<circle r="58" fill="#0B1721" stroke="#A1EDFF" stroke-opacity=".3"/><circle class="pulse" r="8" fill="#A1EDFF" filter="url(#g)"/>
+<text x="-33" y="-8" class="m" font-size="11" fill="#A1EDFF">SYSTEM</text><text x="-23" y="9" class="m" font-size="11" fill="#A1EDFF">CORE</text>
+
+<g class="flow" fill="none" stroke="url(#ln)" stroke-opacity=".55" stroke-width="2">
+<path d="M-57-9L-240-74"/><path d="M-46 35L-230 102"/><path d="M57-10L244-78"/><path d="M47 35L230 105"/><path d="M0-58V-120"/>
+</g>
+
+<g class="s">
+<g transform="translate(-390 -128)"><rect width="208" height="80" rx="14" fill="#0C151F" stroke="#A0EAFF" stroke-opacity=".14"/><text x="18" y="30" fill="#A0EAFF" font-size="13" font-weight="700">AI / AUTOMATION</text><text x="18" y="54" fill="#74899B" font-size="12">agents · workflows · validation</text></g>
+<g transform="translate(-390 250)"><rect width="208" height="80" rx="14" fill="#0C151F" stroke="#A0EAFF" stroke-opacity=".14"/><text x="18" y="30" fill="#A0EAFF" font-size="13" font-weight="700">HARDWARE / EE</text><text x="18" y="54" fill="#74899B" font-size="12">embedded · circuits · power</text></g>
+<g transform="translate(782 -132)"><rect width="208" height="80" rx="14" fill="#0C151F" stroke="#A0EAFF" stroke-opacity=".14"/><text x="18" y="30" fill="#A0EAFF" font-size="13" font-weight="700">SOFTWARE</text><text x="18" y="54" fill="#74899B" font-size="12">web · desktop · APIs</text></g>
+<g transform="translate(782 250)"><rect width="208" height="80" rx="14" fill="#0C151F" stroke="#A0EAFF" stroke-opacity=".14"/><text x="18" y="30" fill="#A0EAFF" font-size="13" font-weight="700">INFRA / DATA</text><text x="18" y="54" fill="#74899B" font-size="12">queues · DB · containers</text></g>
+<g transform="translate(496 76)"><rect width="208" height="70" rx="14" fill="#0C151F" stroke="#A0EAFF" stroke-opacity=".14"/><text x="42" y="29" fill="#A0EAFF" font-size="13" font-weight="700">PRODUCT DESIGN</text><text x="42" y="51" fill="#74899B" font-size="12">UX · systems thinking</text></g>
+</g>
+
+<g fill="#A1EDFF"><circle cx="-240" cy="-74" r="4"/><circle cx="-230" cy="102" r="4"/><circle cx="244" cy="-78" r="4"/><circle cx="230" cy="105" r="4"/><circle cx="0" cy="-120" r="4"/></g>
+</g>
+</svg>
