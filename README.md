@@ -11,13 +11,13 @@ I’m most interested in the seams between **software, infrastructure, automatio
 ## this year, as a place
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/maeul-in-the-sky-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/maeul-in-the-sky-light.svg">
-  <img alt="My GitHub contributions as an isometric village" src="./assets/maeul-in-the-sky-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1seo/maeul-in-the-sky/main/.github/assets/preview-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t1seo/maeul-in-the-sky/main/.github/assets/preview-light.svg">
+  <img alt="Preview of the contribution village style" src="https://raw.githubusercontent.com/t1seo/maeul-in-the-sky/main/.github/assets/preview-dark.svg" width="100%">
 </picture>
 
 <sub>
-The landscape is generated from my actual GitHub contribution history and grows automatically over time.
+Preview style by <a href="https://github.com/t1seo/maeul-in-the-sky">Maeul in the Sky</a>. On the final profile, this sample is replaced by a version generated from my own contribution history and updated automatically.
 </sub>
 
 ---
