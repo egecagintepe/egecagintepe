@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="300" viewBox="0 0 380 300" role="img" aria-labelledby="t d">
+<title id="t">ZonDPI</title><desc id="d">Animated systems card for a Windows network utility.</desc>
+<defs><linearGradient id="b" x1="0" x2="1"><stop stop-color="#091019"/><stop offset="1" stop-color="#0E1722"/></linearGradient><linearGradient id="e"><stop stop-color="#72E6FF"/><stop offset="1" stop-color="#73F0AE"/></linearGradient><style>.m{font-family:"SFMono-Regular",Consolas,monospace}.s{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.f{stroke-dasharray:5 10;animation:f 2.8s linear infinite}.p{animation:p 2.4s ease-in-out infinite}@keyframes f{to{stroke-dashoffset:-60}}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}</style></defs>
+<rect x="1" y="1" width="378" height="298" rx="20" fill="url(#b)" stroke="#B8EAFF" stroke-opacity=".14"/>
+<text x="24" y="32" class="m" fill="#6D8296" font-size="11" letter-spacing="1.3">SYSTEM / 03</text><circle class="p" cx="339" cy="28" r="4" fill="#73F0AE"/>
+<text x="24" y="72" class="s" fill="#EEF7FF" font-size="27" font-weight="750">ZonDPI</text>
+<text x="24" y="96" class="s" fill="#8CE9FF" font-size="12" font-weight="650">WINDOWS NETWORK UTILITY</text>
+<g transform="translate(28 130)">
+<rect x="0" y="20" width="76" height="52" rx="10" fill="#0C151F" stroke="#9CEAFF" stroke-opacity=".18"/><text x="17" y="51" class="m" fill="#DDEEFF" font-size="10">CLIENT</text>
+<rect x="128" y="20" width="82" height="52" rx="10" fill="#0C151F" stroke="#9CEAFF" stroke-opacity=".18"/><text x="143" y="44" class="m" fill="#DDEEFF" font-size="10">SERVICE</text><text x="148" y="58" class="m" fill="#6D8296" font-size="8">LOCAL IPC</text>
+<rect x="262" y="20" width="66" height="52" rx="10" fill="#0C151F" stroke="#9CEAFF" stroke-opacity=".18"/><text x="276" y="51" class="m" fill="#DDEEFF" font-size="10">NET</text>
+<path class="f" d="M78 46H126M212 46H260" stroke="url(#e)" stroke-width="2"/>
+<path d="M294 10v72M282 18h24M282 74h24" stroke="#73F0AE" stroke-opacity=".28"/>
+</g>
+<path d="M24 232H356" stroke="#9BEAFF" stroke-opacity=".11"/>
+<text x="24" y="255" class="m" fill="#DCEEFF" font-size="11">Windows Service · WinDivert · Tauri · CLI</text>
+<text x="24" y="278" class="m" fill="#6E8396" font-size="10">packet filtering · IPC · zero telemetry · diagnostics</text>
+</svg>
