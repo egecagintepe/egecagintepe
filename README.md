@@ -1,43 +1,81 @@
 # Ege Çağın Tepe
 
-**System & Project Engineer | Electrical & Electronics Engineering Student**
+**Electrical & Electronics Engineering student** building things that tend to escape a single discipline.
 
-A system-level thinker focused on the intersection of hardware reliability and AI-augmented software efficiency. I specialize in building ergonomic, user-centric platforms and hardware solutions that prioritize radical innovation and workflow optimization.
+I’m most interested in the seams between **software, infrastructure, automation, hardware and product design** — the places where a technically correct component still has to survive contact with the rest of the system.
 
----
-
-### 🛠 Technical Arsenal
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Engineering & Hardware** | Altium Designer, Proteus, Embedded Systems, C/C++, C#, Power Distribution |
-| **AI-Augmented Development** | Python, Django, Node.js, Advanced Prompt Engineering, Workflow Automation |
-| **Visual & UI/UX Design** | Adobe Photoshop, Canva, Figma, Google Stitch, Tailwind CSS |
-| **Systems & Infrastructure** | Linux (Ubuntu/WSL2), Docker, Home Server Management, Project Management |
+[LinkedIn](https://www.linkedin.com/in/egecagintepe/) · [Email](mailto:napryzon@gmail.com)
 
 ---
 
-### 🚀 Core Focus & Philosophy
+## this year, as a place
 
-- **AI-Integrated Development:** Leveraging Large Language Models to bridge the gap between complex system logic and rapid deployment. I treat AI as a primary development partner for backend architecture (Django) and automation.
-- **Ergonomic Design:** Developing platforms like **NovZon** and **Anizon** with a focus on enhancing user comfort and radical aesthetic standards.
-- **System-Level Synergy:** Integrating EE fundamentals with modern software stacks to create seamless, high-performance environments.
-- **Leadership:** Proven track record in organizational leadership roles throughout high school and university levels.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1seo/maeul-in-the-sky/main/.github/assets/preview-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t1seo/maeul-in-the-sky/main/.github/assets/preview-light.svg">
+  <img alt="Preview of the contribution village style" src="https://raw.githubusercontent.com/t1seo/maeul-in-the-sky/main/.github/assets/preview-dark.svg" width="100%">
+</picture>
 
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egecagintepe&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" alt="Ege's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecagintepe&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff&hide=dart,cmake,swift" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egecagintepe&theme=transparent&hide_border=true&stroke=00d1b2&ring=00d1b2&fire=00d1b2&currStreakLabel=00d1b2" alt="GitHub Streak" />
-</p>
+<sub>
+Preview style by <a href="https://github.com/t1seo/maeul-in-the-sky">Maeul in the Sky</a>. On the final profile, this sample is replaced by a version generated from my own contribution history and updated automatically.
+</sub>
 
 ---
 
-### 📫 Connect with me
-**Email:** [napryzon@gmail.com](mailto:napryzon@gmail.com) | **LinkedIn:** [linkedin.com/in/egecagintepe/](https://www.linkedin.com/in/egecagintepe/)
+## selected work
+
+| | project | what it is |
+|---|---|---|
+| **01** | [**NovZon**](https://github.com/egecagintepe/novzon-platform) | Digital publishing & media platform; Django core, background processing, real-time features and multiple product surfaces. |
+| **02** | [**ZonDPI**](https://github.com/egecagintepe/ZonDPI) | Open-source Windows network utility built around a background service, packet filtering, local IPC and diagnostics. |
+| **03** | [**TRIAGE**](https://github.com/egecagintepe/triage-disaster-response) | Offline-minded disaster-response prototype with FastAPI, PWAs, real-time sync and geospatial workflows. |
+| **04** | **private work** | AI-assisted product workflows, media automation, infrastructure tooling and experiments that are not public repositories. |
+
+---
+
+## toolbox
+
+I don’t treat this as a ranking or a checklist; these are simply the tools I keep reaching for.
+
+**software**  
+Python · TypeScript / JavaScript · C / C++ · C# · Dart
+
+**web & application**  
+Django · FastAPI · React · Next.js · Svelte · Astro · Flutter
+
+**data & runtime**  
+PostgreSQL · Redis · Celery · Django Channels · WebSockets · pgvector
+
+**systems & delivery**  
+Docker · Linux · WSL2 · GitHub Actions · FFmpeg · Playwright · LikeC4
+
+**AI & orchestration**  
+LangGraph · MCP · structured LLM workflows · agent-assisted development
+
+**engineering**  
+Embedded Systems · Altium Designer · Proteus
+
+---
+
+## the way I like to work
+
+> **Start with the system, not the stack.**
+
+Data flow, state, failure modes, recovery and the person operating the thing usually matter more to me than which framework wins a benchmark.
+
+> **Automate repetition; keep judgment visible.**
+
+I use AI and automation heavily, but I prefer explicit review, checkpoints and fallback paths over invisible magic.
+
+> **Interfaces are part of engineering.**
+
+If a system is difficult to understand or operate, the implementation is not finished.
+
+---
+
+### leave a note
+
+If you somehow made it this far, [sign the guestbook](https://github.com/egecagintepe/egecagintepe/issues/new?template=guestbook.yml).  
+Bug reports, random hellos and terrible engineering jokes are all valid entries.
+
+<sub>Ankara, Türkiye · Electrical & Electronics Engineering · systems / software / product</sub>
