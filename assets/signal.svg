@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="t d">
+  <title id="t">Engineering signal</title>
+  <desc id="d">Animated systems signal visualization.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#70E1F5"/>
+      <stop offset=".55" stop-color="#A8F0FF"/>
+      <stop offset="1" stop-color="#6BA8FF"/>
+    </linearGradient>
+    <style>
+      .m{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+      .dash{stroke-dasharray:8 16;animation:f 4s linear infinite}
+      .dot{animation:p 2.4s ease-in-out infinite;transform-origin:center}
+      @keyframes f{to{stroke-dashoffset:-96}}
+      @keyframes p{0%,100%{opacity:.35}50%{opacity:1}}
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="178" rx="20" fill="#0B1118" stroke="#BFEAFF" stroke-opacity=".13"/>
+  <text x="38" y="40" class="m" font-size="13" fill="#7E91A8" letter-spacing="1.6">ENGINEERING SIGNAL / LIVE PROFILE LAYER</text>
+  <path d="M38 108 L120 108 L145 72 L168 138 L195 94 L242 108 L322 108 L347 86 L372 128 L402 108 L502 108 L530 62 L555 148 L584 90 L612 108 L698 108 L724 82 L748 132 L774 108 L860 108 L890 74 L916 140 L946 96 L974 108 L1162 108"
+        fill="none" stroke="url(#g)" stroke-width="3" stroke-linejoin="round"/>
+  <path class="dash" d="M38 138 H1162" fill="none" stroke="url(#g)" stroke-opacity=".28" stroke-width="1.5"/>
+  <circle class="dot" cx="1162" cy="108" r="5" fill="#A8F0FF"/>
+  <text x="38" y="158" class="m" font-size="12" fill="#7E91A8">SYSTEMS</text>
+  <text x="382" y="158" class="m" font-size="12" fill="#7E91A8">AUTOMATION</text>
+  <text x="748" y="158" class="m" font-size="12" fill="#7E91A8">PRODUCT</text>
+  <text x="1060" y="158" class="m" font-size="12" fill="#A8F0FF">ONLINE</text>
+</svg>
