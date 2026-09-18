@@ -25,6 +25,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Prepare output directory
+        run: mkdir -p assets
+
       - name: Build contribution village
         uses: t1seo/maeul-in-the-sky@v1
         with:
