@@ -1,178 +1,124 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="Ege Çağın Tepe — Systems, Software, Hardware" src="./assets/hero-dark.svg" width="100%">
+  <img alt="Ege Çağın Tepe — Engineering Interface" src="./assets/hero-dark.svg" width="100%">
 </picture>
-
-<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-egecagintepe-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egecagintepe/)
-[![Email](https://img.shields.io/badge/Email-napryzon%40gmail.com-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:napryzon@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-EGE%20ÇAĞIN%20TEPE-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egecagintepe/)
+[![Email](https://img.shields.io/badge/MAIL-NAPRYZON%40GMAIL.COM-111820?style=flat-square&logo=gmail&logoColor=white)](mailto:napryzon@gmail.com)
+![Focus](https://img.shields.io/badge/FOCUS-SYSTEMS%20ENGINEERING-111820?style=flat-square)
+![Mode](https://img.shields.io/badge/MODE-BUILDING-0f766e?style=flat-square)
 
 </div>
 
----
+<br/>
 
-## 01 / BUILDING SYSTEMS
+<p align="center">
+  <img src="./assets/system-map.svg" alt="Operating domains and system topology" width="100%">
+</p>
 
-I work at the intersection of **electrical engineering, software architecture, automation and product design**.
+<br/>
 
-My focus is less about isolated technologies and more about how complete systems behave: how components communicate, where workflows fail, what should be automated, and how complex infrastructure can stay understandable and usable.
+## 01 // SELECTED SYSTEMS
+
+<p align="center">
+  <a href="https://github.com/egecagintepe/novzon-platform"><img src="./assets/project-novzon.svg" width="32%" alt="NovZon"></a>
+  <a href="https://github.com/egecagintepe/triage-disaster-response"><img src="./assets/project-triage.svg" width="32%" alt="TRIAGE"></a>
+  <a href="https://github.com/egecagintepe/ZonDPI"><img src="./assets/project-zondpi.svg" width="32%" alt="ZonDPI"></a>
+</p>
+
+<div align="center">
+<sub>
+Public repositories are the visible edge of a broader engineering workspace spanning platform architecture,
+automation, infrastructure, AI systems, networking and product development.
+</sub>
+</div>
+
+<br/>
+
+## 02 // TECHNICAL SURFACE
+
+<p align="center">
+  <img src="./assets/tech-matrix.svg" alt="Technical surface across public and private engineering work" width="100%">
+</p>
+
+> The technology map reflects tools used across both public and private engineering work. Private source code, internal repository names, credentials, proprietary workflows and implementation-sensitive details remain private.
+
+<br/>
+
+## 03 // OPERATING MODEL
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### NovZon
-**Digital publishing & media platform**
+### SYSTEMS
 
-A multi-surface product ecosystem built around Django, asynchronous processing, real-time services and multiple purpose-specific frontends.
+Start with the whole system.
 
-**Engineering themes**
-- domain-oriented backend design
-- Celery + Redis workloads
-- Django / HTMX / React / Svelte / Astro
-- real-time WebSocket features
-- AI-assisted structured workflows
-- DevSecOps & browser acceptance testing
-
-[Explore the showroom →](https://github.com/egecagintepe/novzon-platform)
+Interfaces, state, data flow, failure modes and operational constraints matter before individual components do.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### TRIAGE
-**Disaster-response coordination system**
+### AUTOMATION
 
-A hackathon-built emergency coordination platform designed around offline resilience, field operations and AI-assisted incident analysis.
+Automate repetition, not judgment.
 
-**Engineering themes**
-- FastAPI backend
-- offline-first PWAs
-- real-time synchronization
-- deterministic AI fallbacks
-- dispatch logic
-- geospatial workflows
-
-[View project →](https://github.com/egecagintepe/triage-disaster-response)
+AI agents, queues and workflows are useful when their boundaries, validation and recovery paths are explicit.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### ZonDPI
-**Windows network utility**
+### RELIABILITY
 
-An open-source local system utility for mitigating DPI interference, TLS SNI blocking and DNS poisoning on Turkish ISP networks.
+Design for imperfect reality.
 
-**Engineering themes**
-- Windows service architecture
-- WinDivert packet filtering
-- local IPC
-- Tauri desktop GUI
-- CLI tooling
-- zero-telemetry design
+Retries, fallbacks, observability, state recovery and human approval are part of the architecture — not afterthoughts.
 
-[View project →](https://github.com/egecagintepe/ZonDPI)
+</td>
+<td width="25%" valign="top">
+
+### PRODUCT
+
+The interface is part of the system.
+
+Engineering quality includes whether a human can understand, operate and trust what was built.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 02 / ENGINEERING PROFILE
+## 04 // CURRENT VECTOR
 
-<table>
-<tr>
-<td width="50%" valign="top">
+~~~text
+                     ┌─────────────┐
+                     │ ENGINEERING │
+                     └──────┬──────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+     AI SYSTEMS        INFRASTRUCTURE      HARDWARE / EE
+          │                 │                 │
+          └────────────┬────┴────┬────────────┘
+                       ▼         ▼
+                  AUTOMATION   PRODUCT
+                       │         │
+                       └────┬────┘
+                            ▼
+                     REAL SYSTEMS
+~~~
 
-### SOFTWARE & AUTOMATION
+My current direction is increasingly centered on **systems engineering**: connecting software, infrastructure, AI-assisted workflows and electrical-engineering fundamentals into products that can actually be operated.
 
-`Python` · `Django` · `FastAPI`  
-`Node.js` · `JavaScript / TypeScript`  
-`C / C++` · `C#`  
-`LLM-assisted development`  
-`Workflow automation`
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-### SYSTEMS & INFRASTRUCTURE
-
-`Linux` · `Docker` · `WSL2`  
-`Redis` · `PostgreSQL`  
-`Home / cloud server operations`  
-`Networking`  
-`System architecture`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ENGINEERING & HARDWARE
-
-`Embedded Systems`  
-`Altium Designer`  
-`Proteus`  
-`Electronics`  
-`Power Systems`
-
-</td>
-<td width="50%" valign="top">
-
-### PRODUCT & INTERFACE
-
-`Figma` · `Adobe Photoshop`  
-`Tailwind CSS` · `Google Stitch`  
-`UI / UX`  
-`Rapid prototyping`  
-`Human-centered workflows`
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 / HOW I BUILD
-
-**System first. Interface included. Automation where it matters.**
-
-I increasingly use AI as an engineering instrument for architecture exploration, implementation acceleration, testing and repetitive workflow automation — while keeping the system model, trade-offs and final technical decisions human-directed.
-
-My preferred projects usually combine more than one domain:
-
-```text
-hardware / infrastructure
-          │
-          ▼
-    system behavior
-          │
-          ├── automation
-          ├── software
-          ├── reliability
-          └── interface
-          │
-          ▼
-       product
-```
-
----
-
-## 04 / CURRENT DIRECTION
-
-- **Systems engineering** — connecting software, infrastructure and hardware rather than treating them as isolated layers.
-- **AI-augmented development** — using LLMs as force multipliers for implementation, analysis and automation.
-- **Resilient architecture** — designing around failure modes, recovery paths and real operational constraints.
-- **Product engineering** — caring about the interaction surface as much as the underlying implementation.
-- **Engineering leadership** — translating ambiguous goals into executable systems and coordinated work.
-
----
-
-## 05 / SIGNAL
+## 05 // ENGINEERING SIGNAL
 
 <p align="center">
   <img src="./assets/signal.svg" alt="Engineering signal visualization" width="100%">
@@ -180,13 +126,14 @@ hardware / infrastructure
 
 <div align="center">
 
-**BUILD · AUTOMATE · ITERATE**
+### BUILD / OBSERVE / ITERATE / HARDEN
 
-<sub>Electrical & Electronics Engineering · Systems · Software · Product</sub>
+<sub>
+Electrical & Electronics Engineering · Systems Architecture · Software · Automation · Product
+</sub>
 
 <br/><br/>
 
-[LinkedIn](https://www.linkedin.com/in/egecagintepe/) ·
-[Email](mailto:napryzon@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/egecagintepe/) · [Email](mailto:napryzon@gmail.com)
 
 </div>
