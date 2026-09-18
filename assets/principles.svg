@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">Engineering doctrine</title><desc id="d">Four engineering principles: systems, automation, reliability and product.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1"><stop stop-color="#081018"/><stop offset="1" stop-color="#0d1721"/></linearGradient>
+<style>.m{font-family:"SFMono-Regular",Consolas,monospace}.s{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mut{fill:#718698}.w{fill:#edf7ff}.ac{fill:#9beeff}.pulse{animation:p 2.8s ease-in-out infinite}@keyframes p{0%,100%{opacity:.28}50%{opacity:1}}</style>
+</defs>
+<rect x="1" y="1" width="1198" height="298" rx="22" fill="url(#bg)" stroke="#b8eaff" stroke-opacity=".13"/>
+<text x="38" y="42" class="m mut" font-size="13" letter-spacing="1.6">ENGINEERING DOCTRINE // OPERATING PRINCIPLES</text>
+
+<g transform="translate(38 78)">
+<rect width="264" height="174" rx="16" fill="#0b151e" stroke="#9beeff" stroke-opacity=".12"/>
+<circle class="pulse" cx="28" cy="30" r="5" fill="#79e8ff"/><text x="44" y="35" class="m ac" font-size="12">01 / SYSTEMS</text>
+<text x="22" y="76" class="s w" font-size="18" font-weight="700">Start with the whole.</text>
+<text x="22" y="107" class="s mut" font-size="13">Interfaces, state, data flow,</text><text x="22" y="127" class="s mut" font-size="13">failure modes and constraints</text><text x="22" y="147" class="s mut" font-size="13">before isolated components.</text>
+</g>
+
+<g transform="translate(324 78)">
+<rect width="264" height="174" rx="16" fill="#0b151e" stroke="#9beeff" stroke-opacity=".12"/>
+<circle class="pulse" cx="28" cy="30" r="5" fill="#79e8ff"/><text x="44" y="35" class="m ac" font-size="12">02 / AUTOMATION</text>
+<text x="22" y="76" class="s w" font-size="18" font-weight="700">Automate repetition.</text>
+<text x="22" y="107" class="s mut" font-size="13">Agents and workflows work best</text><text x="22" y="127" class="s mut" font-size="13">with explicit boundaries, review</text><text x="22" y="147" class="s mut" font-size="13">and recovery paths.</text>
+</g>
+
+<g transform="translate(610 78)">
+<rect width="264" height="174" rx="16" fill="#0b151e" stroke="#9beeff" stroke-opacity=".12"/>
+<circle class="pulse" cx="28" cy="30" r="5" fill="#79e8ff"/><text x="44" y="35" class="m ac" font-size="12">03 / RELIABILITY</text>
+<text x="22" y="76" class="s w" font-size="18" font-weight="700">Design for reality.</text>
+<text x="22" y="107" class="s mut" font-size="13">Retries, fallbacks, observability</text><text x="22" y="127" class="s mut" font-size="13">and state recovery belong inside</text><text x="22" y="147" class="s mut" font-size="13">the architecture.</text>
+</g>
+
+<g transform="translate(896 78)">
+<rect width="264" height="174" rx="16" fill="#0b151e" stroke="#9beeff" stroke-opacity=".12"/>
+<circle class="pulse" cx="28" cy="30" r="5" fill="#79e8ff"/><text x="44" y="35" class="m ac" font-size="12">04 / PRODUCT</text>
+<text x="22" y="76" class="s w" font-size="18" font-weight="700">The interface matters.</text>
+<text x="22" y="107" class="s mut" font-size="13">A system is only complete when</text><text x="22" y="127" class="s mut" font-size="13">people can understand, operate</text><text x="22" y="147" class="s mut" font-size="13">and trust it.</text>
+</g>
+
+<text x="38" y="282" class="m mut" font-size="10">DISCIPLINE > NOVELTY / CLARITY > COMPLEXITY / OPERABILITY > DEMO VALUE</text>
+</svg>

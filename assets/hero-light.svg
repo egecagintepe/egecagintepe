@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">Ege Çağın Tepe — Engineering Profile</title>
+<desc id="desc">Animated engineering command interface for systems, software and hardware.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F8FBFD"/><stop offset=".52" stop-color="#F3F7FA"/><stop offset="1" stop-color="#EDF3F7"/>
+  </linearGradient>
+  <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#1C8EAC"/><stop offset=".5" stop-color="#2CA7C4"/><stop offset="1" stop-color="#506FC5"/></linearGradient>
+  <radialGradient id="rad"><stop stop-color="#1E8EAD" stop-opacity=".16"/><stop offset="1" stop-color="#1E8EAD" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#315A74" stroke-opacity=".055"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="c"><rect x="1" y="1" width="1198" height="498" rx="26"/></clipPath>
+  <style>
+  .s{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.m{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+  .a{fill:#127D9D}.w{fill:#132431}.g{fill:#5D7181}.line{stroke:#127D9D;stroke-opacity:.22;fill:none}
+  .scan{animation:scan 8s linear infinite}.dash{stroke-dasharray:7 15;animation:flow 4s linear infinite}
+  .blink{animation:blink 2.4s ease-in-out infinite}.spin{transform-origin:965px 244px;animation:spin 18s linear infinite}
+  .spin2{transform-origin:965px 244px;animation:spin2 12s linear infinite}.float{animation:float 4s ease-in-out infinite}
+  @keyframes scan{from{transform:translateY(-100px)}to{transform:translateY(620px)}}@keyframes flow{to{stroke-dashoffset:-88}}
+  @keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes spin2{to{transform:rotate(-360deg)}}
+  @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+  </style>
+</defs>
+
+<rect width="1200" height="500" rx="26" fill="url(#bg)"/>
+<g clip-path="url(#c)"><rect width="1200" height="500" fill="url(#grid)"/><rect class="scan" width="1200" height="95" y="-100" fill="url(#edge)" opacity=".028"/>
+<circle cx="960" cy="245" r="260" fill="url(#rad)"/></g>
+<rect x="1" y="1" width="1198" height="498" rx="25" fill="none" stroke="#47758E" stroke-opacity=".14"/>
+
+<g class="m" font-size="13" letter-spacing="1.5">
+<text x="50" y="48" class="g">ECT // ENGINEERING INTERFACE</text>
+<text x="50" y="74" fill="#687B89">PROFILE NODE 01</text>
+<circle class="blink" cx="1080" cy="45" r="5" fill="#188759"/><text x="1094" y="49" fill="#188759">ONLINE</text>
+</g>
+
+<g class="s">
+<text x="50" y="157" class="w" font-size="58" font-weight="760" letter-spacing="-1.8">EGE ÇAĞIN TEPE</text>
+<text x="52" y="197" class="a" font-size="17" font-weight="650" letter-spacing="4.2">SYSTEMS × SOFTWARE × HARDWARE</text>
+<text x="52" y="248" class="g" font-size="20">I design and build systems where infrastructure,</text>
+<text x="52" y="278" class="g" font-size="20">automation, software and product thinking meet.</text>
+</g>
+
+<g transform="translate(52 322)" class="m">
+<rect width="608" height="112" rx="14" fill="#F2F7FA" stroke="#127D9D" stroke-opacity=".12"/>
+<text x="20" y="29" fill="#657787" font-size="12" letter-spacing="1.4">CURRENT OPERATING SURFACE</text>
+<text x="20" y="57" class="w" font-size="14">AI SYSTEMS</text><circle cx="126" cy="53" r="3" fill="#1C8EAC"/>
+<text x="154" y="57" class="w" font-size="14">INFRASTRUCTURE</text><circle cx="287" cy="53" r="3" fill="#1C8EAC"/>
+<text x="315" y="57" class="w" font-size="14">PRODUCT</text><circle cx="390" cy="53" r="3" fill="#1C8EAC"/>
+<text x="418" y="57" class="w" font-size="14">ENGINEERING</text>
+<path d="M20 78H585" stroke="#9FEAFF" stroke-opacity=".13"/>
+<path class="dash" d="M20 78H585" stroke="url(#edge)" stroke-width="2" stroke-linecap="round"/>
+<text x="20" y="101" fill="#657787" font-size="11">BUILD → OBSERVE → ITERATE → HARDEN</text>
+</g>
+
+<g>
+<circle cx="965" cy="244" r="144" fill="none" stroke="#9FEAFF" stroke-opacity=".08"/>
+<circle cx="965" cy="244" r="108" fill="none" stroke="#9FEAFF" stroke-opacity=".1"/>
+<circle cx="965" cy="244" r="68" fill="none" stroke="#9FEAFF" stroke-opacity=".14"/>
+<g class="spin"><path d="M965 100a144 144 0 0 1 121 66" class="line" stroke-width="2"/><circle cx="1086" cy="166" r="5" fill="#9FEAFF" filter="url(#glow)"/></g>
+<g class="spin2"><path d="M897 151a108 108 0 0 1 136 6" class="line" stroke-width="2"/><circle cx="897" cy="151" r="4" fill="#566FC5" filter="url(#glow)"/></g>
+<circle cx="965" cy="244" r="22" fill="#EDF5F8" stroke="#9FEAFF" stroke-opacity=".35"/>
+<circle class="blink" cx="965" cy="244" r="5" fill="#127D9D" filter="url(#glow)"/>
+
+<g class="m" font-size="11" fill="#72879A">
+<text x="922" y="242">SYSTEM</text><text x="930" y="257">CORE</text>
+<text x="814" y="118">AI</text><text x="1087" y="137">WEB</text><text x="1103" y="332">DATA</text><text x="804" y="352">EE</text>
+</g>
+
+<g class="float">
+<rect x="763" y="186" width="104" height="42" rx="10" fill="#F2F7FA" stroke="#9FEAFF" stroke-opacity=".14"/><text x="780" y="212" class="m a" font-size="11">AUTOMATION</text>
+<rect x="1030" y="210" width="112" height="42" rx="10" fill="#F2F7FA" stroke="#9FEAFF" stroke-opacity=".14"/><text x="1048" y="236" class="m a" font-size="11">PRODUCT</text>
+</g>
+<path class="dash" d="M867 207H925M1008 229H1030M904 323L938 284M1020 286l53 36" fill="none" stroke="#8EEAFF" stroke-opacity=".45"/>
+</g>
+
+<g class="m" font-size="11" letter-spacing="1">
+<text x="52" y="472" fill="#687B89">ANKARA / TR</text><text x="201" y="472" fill="#687B89">UTC+03</text>
+<text x="950" y="472" fill="#687B89">STATUS: BUILDING</text>
+</g>
+</svg>

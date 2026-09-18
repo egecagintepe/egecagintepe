@@ -1,0 +1,48 @@
+name: Render profile telemetry
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */12 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/render_profile.py"
+      - ".github/workflows/render-profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-render
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Render telemetry
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/render_profile.py
+
+      - name: Commit refreshed asset
+        run: |
+          if git diff --quiet -- assets/live-telemetry.svg; then
+            echo "No telemetry changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/live-telemetry.svg
+          git commit -m "chore(profile): refresh live telemetry"
+          git push

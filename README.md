@@ -1,43 +1,109 @@
-# Ege Çağın Tepe
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Ege Çağın Tepe — Engineering Interface" src="./assets/hero-dark.svg" width="100%">
+</picture>
 
-**System & Project Engineer | Electrical & Electronics Engineering Student**
+<div align="center">
 
-A system-level thinker focused on the intersection of hardware reliability and AI-augmented software efficiency. I specialize in building ergonomic, user-centric platforms and hardware solutions that prioritize radical innovation and workflow optimization.
+[LinkedIn](https://www.linkedin.com/in/egecagintepe/) ·
+[Email](mailto:napryzon@gmail.com) ·
+[Public Systems](#01--selected-systems) ·
+[Technical Surface](#03--technical-surface)
 
----
+<sub>Electrical & Electronics Engineering · Systems · Software · Automation · Product</sub>
 
-### 🛠 Technical Arsenal
+</div>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Engineering & Hardware** | Altium Designer, Proteus, Embedded Systems, C/C++, C#, Power Distribution |
-| **AI-Augmented Development** | Python, Django, Node.js, Advanced Prompt Engineering, Workflow Automation |
-| **Visual & UI/UX Design** | Adobe Photoshop, Canva, Figma, Google Stitch, Tailwind CSS |
-| **Systems & Infrastructure** | Linux (Ubuntu/WSL2), Docker, Home Server Management, Project Management |
-
----
-
-### 🚀 Core Focus & Philosophy
-
-- **AI-Integrated Development:** Leveraging Large Language Models to bridge the gap between complex system logic and rapid deployment. I treat AI as a primary development partner for backend architecture (Django) and automation.
-- **Ergonomic Design:** Developing platforms like **NovZon** and **Anizon** with a focus on enhancing user comfort and radical aesthetic standards.
-- **System-Level Synergy:** Integrating EE fundamentals with modern software stacks to create seamless, high-performance environments.
-- **Leadership:** Proven track record in organizational leadership roles throughout high school and university levels.
-
----
-
-### 📊 GitHub Insights
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=egecagintepe&show_icons=true&theme=transparent&hide_border=true&title_color=00d1b2&icon_color=00d1b2&text_color=ffffff" alt="Ege's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egecagintepe&layout=compact&theme=transparent&hide_border=true&title_color=00d1b2&text_color=ffffff&hide=dart,cmake,swift" alt="Top Languages" width="45%" />
+  <img src="./assets/system-map.svg" alt="Operating domains and system topology" width="100%">
 </p>
+
+<br/>
+
+## 01 // SELECTED SYSTEMS
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egecagintepe&theme=transparent&hide_border=true&stroke=00d1b2&ring=00d1b2&fire=00d1b2&currStreakLabel=00d1b2" alt="GitHub Streak" />
+  <a href="https://github.com/egecagintepe/novzon-platform">
+    <img src="./assets/project-novzon.svg" width="32%" alt="NovZon">
+  </a>
+  <a href="https://github.com/egecagintepe/triage-disaster-response">
+    <img src="./assets/project-triage.svg" width="32%" alt="TRIAGE">
+  </a>
+  <a href="https://github.com/egecagintepe/ZonDPI">
+    <img src="./assets/project-zondpi.svg" width="32%" alt="ZonDPI">
+  </a>
 </p>
 
----
+<div align="center">
+<sub>
+Public repositories are the visible edge of a broader engineering workspace spanning platform architecture,
+automation, infrastructure, AI systems, networking and product development.
+</sub>
+</div>
 
-### 📫 Connect with me
-**Email:** [napryzon@gmail.com](mailto:napryzon@gmail.com) | **LinkedIn:** [linkedin.com/in/egecagintepe/](https://www.linkedin.com/in/egecagintepe/)
+<br/>
+
+## 02 // LIVE TELEMETRY
+
+<p align="center">
+  <img src="./assets/live-telemetry.svg" alt="Self-hosted live GitHub telemetry" width="100%">
+</p>
+
+<div align="center">
+<sub>
+Generated inside this repository from public GitHub data. No external stats-card service in the critical path.
+</sub>
+</div>
+
+<br/>
+
+## 03 // TECHNICAL SURFACE
+
+<p align="center">
+  <img src="./assets/tech-matrix.svg" alt="Technical surface across public and private engineering work" width="100%">
+</p>
+
+> The technology map reflects tools used across both public and private engineering work. Private source code, internal repository names, credentials, proprietary workflows and implementation-sensitive details remain private.
+
+<br/>
+
+## 04 // ENGINEERING DOCTRINE
+
+<p align="center">
+  <img src="./assets/principles.svg" alt="Engineering doctrine and operating principles" width="100%">
+</p>
+
+<br/>
+
+## 05 // CURRENT VECTOR
+
+<p align="center">
+  <img src="./assets/current-vector.svg" alt="Current systems engineering vector" width="100%">
+</p>
+
+<div align="center">
+<sub>
+Current direction: connecting software, infrastructure, AI-assisted workflows and electrical-engineering fundamentals into systems that can actually be operated.
+</sub>
+</div>
+
+<br/>
+
+## 06 // SIGNAL
+
+<p align="center">
+  <img src="./assets/signal.svg" alt="Engineering signal visualization" width="100%">
+</p>
+
+<div align="center">
+
+### BUILD / OBSERVE / ITERATE / HARDEN
+
+[LinkedIn](https://www.linkedin.com/in/egecagintepe/) · [Email](mailto:napryzon@gmail.com)
+
+<sub>ANKARA / TR · UTC+03 · PROFILE SYSTEM / ACTIVE</sub>
+
+</div>
