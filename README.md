@@ -118,7 +118,15 @@ My current direction is increasingly centered on **systems engineering**: connec
 
 <br/>
 
-## 05 // ENGINEERING SIGNAL
+## 05 // LIVE TELEMETRY
+
+<p align="center">
+  <img src="./assets/telemetry.svg" alt="Automatically generated public GitHub telemetry" width="100%">
+</p>
+
+<br/>
+
+## 06 // ENGINEERING SIGNAL
 
 <p align="center">
   <img src="./assets/signal.svg" alt="Engineering signal visualization" width="100%">
