@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">Ege Çağın Tepe — Swiss editorial profile</title>
+<desc id="desc">A Swiss-grid profile header with restrained typography and one red accent.</desc>
+<defs>
+  <pattern id="cols" x="72" y="0" width="88" height="500" patternUnits="userSpaceOnUse">
+    <rect width="76" height="500" fill="#0f0f0f" opacity=".045"/>
+  </pattern>
+  <style>
+    .grotesk{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif}
+    .mono{font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace}
+    .rule{animation:reveal 2.2s cubic-bezier(.2,.8,.2,1) both}
+    @keyframes reveal{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+  </style>
+</defs>
+
+<rect width="1200" height="500" fill="#f2f0eb"/>
+<rect width="1200" height="500" fill="url(#cols)"/>
+
+<g stroke="#0f0f0f" stroke-opacity=".14" stroke-width="1">
+  <line x1="72" y1="84" x2="1128" y2="84"/>
+  <line x1="72" y1="168" x2="1128" y2="168"/>
+  <line x1="72" y1="336" x2="1128" y2="336"/>
+  <line x1="72" y1="420" x2="1128" y2="420"/>
+</g>
+
+<text x="72" y="56" class="mono" font-size="13" fill="#6d6a63" letter-spacing="1.4">EGE ÇAĞIN TEPE / PROFILE / 2026</text>
+<text x="1014" y="56" class="mono" font-size="13" fill="#6d6a63" text-anchor="end">ANKARA — TR</text>
+
+<text x="72" y="160" class="grotesk" font-size="112" font-weight="800" fill="#0f0f0f" letter-spacing="-5">EGE</text>
+<text x="72" y="292" class="grotesk" font-size="112" font-weight="800" fill="#0f0f0f" letter-spacing="-5">ÇAĞIN</text>
+<text x="520" y="292" class="grotesk" font-size="112" font-weight="800" fill="#d0021b" letter-spacing="-5">TEPE</text>
+
+<g class="grotesk" fill="#0f0f0f">
+  <text x="776" y="120" font-size="22" font-weight="700">Electrical &amp; Electronics Engineering</text>
+  <text x="776" y="151" font-size="22">systems / software / product</text>
+  <text x="776" y="202" font-size="17">I build across disciplines:</text>
+  <text x="776" y="230" font-size="17">from infrastructure and automation</text>
+  <text x="776" y="258" font-size="17">to interfaces and physical systems.</text>
+</g>
+
+<rect x="776" y="284" width="214" height="4" fill="#d0021b" transform-origin="776px 286px" class="rule"/>
+
+<g class="mono" font-size="12" fill="#6d6a63">
+  <text x="72" y="390">01  NOVZON</text>
+  <text x="336" y="390">02  ZONDPI</text>
+  <text x="600" y="390">03  TRIAGE</text>
+  <text x="864" y="390">04  PRIVATE WORK</text>
+</g>
+
+<g class="grotesk" font-size="13" fill="#0f0f0f">
+  <text x="72" y="451">SYSTEMS ENGINEERING</text>
+  <text x="336" y="451">AUTOMATION</text>
+  <text x="600" y="451">INFRASTRUCTURE</text>
+  <text x="864" y="451">PRODUCT DESIGN</text>
+</g>
+</svg>
