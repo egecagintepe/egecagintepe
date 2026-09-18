@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="t d">
+<title id="t">Technical Surface</title><desc id="d">Animated map of technologies used across public and private engineering work.</desc>
+<defs>
+<linearGradient id="b" x1="0" x2="1"><stop stop-color="#0A1017"/><stop offset="1" stop-color="#0E1721"/></linearGradient>
+<linearGradient id="e" x1="0" x2="1"><stop stop-color="#74E7FF"/><stop offset=".5" stop-color="#A7F0FF"/><stop offset="1" stop-color="#708EFF"/></linearGradient>
+<style>.m{font-family:"SFMono-Regular",Consolas,monospace}.s{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.mut{fill:#71879A}.w{fill:#ECF6FF}.a{fill:#A2EBFF}.p{stroke-dasharray:6 13;animation:f 4.5s linear infinite}.n{animation:n 3s ease-in-out infinite}@keyframes f{to{stroke-dashoffset:-76}}@keyframes n{0%,100%{opacity:.45}50%{opacity:1}}</style>
+</defs>
+<rect x="1" y="1" width="1198" height="408" rx="22" fill="url(#b)" stroke="#B8E9FF" stroke-opacity=".13"/>
+<text x="38" y="42" class="m mut" font-size="13" letter-spacing="1.7">TECHNICAL SURFACE // PUBLIC + PRIVATE WORK</text>
+<text x="38" y="72" class="s w" font-size="27" font-weight="700">A broader stack than the public repositories alone reveal.</text>
+<text x="38" y="99" class="s mut" font-size="15">Technologies are grouped by operating domain, not by project visibility.</text>
+<path d="M38 124H1162" stroke="#A7EBFF" stroke-opacity=".1"/>
+
+<g class="m" font-size="12">
+<text x="48" y="154" class="a">APPLICATION</text>
+<g fill="#DDEEFF">
+<text x="48" y="184">Python</text><text x="126" y="184">Django</text><text x="204" y="184">FastAPI</text><text x="288" y="184">Node.js</text><text x="372" y="184">TypeScript</text><text x="470" y="184">React</text><text x="536" y="184">Next.js</text><text x="614" y="184">Svelte</text><text x="686" y="184">Astro</text><text x="748" y="184">Flutter</text>
+</g>
+
+<text x="48" y="224" class="a">DATA + RUNTIME</text>
+<g fill="#DDEEFF"><text x="48" y="254">PostgreSQL</text><text x="148" y="254">Redis</text><text x="210" y="254">Celery</text><text x="282" y="254">Channels</text><text x="372" y="254">WebSockets</text><text x="472" y="254">pgvector</text><text x="562" y="254">Docker</text><text x="638" y="254">Linux</text><text x="700" y="254">WSL2</text></g>
+
+<text x="48" y="294" class="a">AI + ORCHESTRATION</text>
+<g fill="#DDEEFF"><text x="48" y="324">LangGraph</text><text x="144" y="324">MCP</text><text x="190" y="324">LLM Workflows</text><text x="308" y="324">Agent Systems</text><text x="422" y="324">Human Approval Gates</text><text x="598" y="324">Structured AI</text></g>
+
+<text x="48" y="364" class="a">ENGINEERING + DELIVERY</text>
+<g fill="#DDEEFF"><text x="48" y="394">C/C++</text><text x="112" y="394">C#</text><text x="148" y="394">Embedded</text><text x="236" y="394">Altium</text><text x="306" y="394">Proteus</text><text x="378" y="394">FFmpeg</text><text x="448" y="394">Playwright</text><text x="548" y="394">LikeC4</text><text x="616" y="394">Tailwind</text></g>
+</g>
+
+<g transform="translate(880 164)">
+<circle cx="120" cy="100" r="102" fill="none" stroke="#A2EBFF" stroke-opacity=".08"/><circle cx="120" cy="100" r="70" fill="none" stroke="#A2EBFF" stroke-opacity=".12"/>
+<circle class="n" cx="120" cy="100" r="8" fill="#A2EBFF"/>
+<circle cx="120" cy="0" r="5" fill="#6FE6FF"/><circle cx="212" cy="65" r="5" fill="#718FFF"/><circle cx="177" cy="183" r="5" fill="#6FE6FF"/><circle cx="43" cy="177" r="5" fill="#718FFF"/><circle cx="23" cy="64" r="5" fill="#6FE6FF"/>
+<path class="p" d="M120 8L120 92M204 68L128 97M173 176L126 108M49 171L113 108M31 67L112 97" fill="none" stroke="url(#e)" stroke-opacity=".58" stroke-width="2"/>
+<text x="83" y="103" class="m w" font-size="11">ECT CORE</text>
+<text x="93" y="-14" class="m mut" font-size="10">SOFTWARE</text><text x="218" y="68" class="m mut" font-size="10">DATA</text><text x="184" y="198" class="m mut" font-size="10">AI</text><text x="-7" y="195" class="m mut" font-size="10">EE</text><text x="-15" y="66" class="m mut" font-size="10">OPS</text>
+</g>
+</svg>
