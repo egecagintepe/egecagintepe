@@ -1,0 +1,40 @@
+name: Grow contribution village
+
+on:
+  push:
+    branches:
+      - profile-v4
+      - main
+    paths:
+      - ".github/workflows/maeul.yml"
+  schedule:
+    - cron: "23 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-village-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build contribution village
+        uses: t1seo/maeul-in-the-sky@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_dir: ./assets
+          hemisphere: north
+          density: 7
+
+      - name: Commit generated art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(profile): grow contribution village"
+          file_pattern: "assets/maeul-in-the-sky-*.svg"
