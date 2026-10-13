@@ -5,7 +5,7 @@
 <text x="24" y="106" font-size="40" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-1" fill="#F5F8FF">NOVZON</text>
 <text x="26" y="138" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">Digital reading, media</text>
 <text x="26" y="160" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">&amp; community ecosystem</text>
-<path d="M24 189H515" stroke="#45617B" opacity=".6"/><circle cx="31" cy="211" r="4.3" fill="#60BFFF"/><text x="44" y="215" font-size="12.5" font-family="ui-monospace,Consolas,monospace" letter-spacing=".4" fill="#E2EBF5">DJANGO  /  BACKGROUND JOBS</text>
+<path d="M24 189H515" stroke="#45617B" opacity=".6"/><circle cx="31" cy="211" r="4.3" fill="#60BFFF"><animate attributeName="opacity" dur="3.4s" values=".45;1;.45" repeatCount="indefinite"/></circle><text x="44" y="215" font-size="12.5" font-family="ui-monospace,Consolas,monospace" letter-spacing=".4" fill="#E2EBF5">DJANGO  /  BACKGROUND JOBS</text>
 <circle cx="418" cy="102" r="88" stroke="#60BFFF" opacity=".26" stroke-dasharray="4 7" fill="none"/><g transform="translate(420 104)"><path d="M-55 47V-47L44 47V-47" stroke="#60BFFF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none"/><path d="M-70-62H64V62H-70" fill="none" stroke="#60BFFF" opacity=".35" stroke-width="2" stroke-dasharray="4 7"/></g>
 <path d="M485 24H510V48M484 179H512V154" stroke="#60BFFF" opacity=".47" fill="none" stroke-width="2"/>
 </g></svg>

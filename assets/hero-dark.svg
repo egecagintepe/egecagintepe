@@ -56,4 +56,11 @@
 <text x="42" y="174" font-size="11" font-family="ui-monospace,Consolas,monospace" fill="#A2B7CF" letter-spacing="1.5">STATE / READY</text>
 </g>
 <text x="556" y="397" font-size="10" font-family="ui-monospace,Consolas,monospace" fill="#A2B7CF" letter-spacing="2" opacity=".75">DESIGNED TO BE UNDERSTOOD. BUILT TO BE TESTED.</text>
-</g></svg>
+<g transform="translate(964 228)" fill="none" pointer-events="none">
+<circle r="154" stroke="#73E3D0" stroke-width="2.5" stroke-dasharray="5 23" opacity=".44">
+<animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
+</circle>
+<circle r="4.5" cx="148" cy="0" fill="#73E3D0" opacity=".9">
+<animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="-360" dur="25s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/>
+</circle></g></g></svg>

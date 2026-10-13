@@ -5,7 +5,7 @@
 <text x="24" y="106" font-size="40" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-1" fill="#F5F8FF">ZONDPI</text>
 <text x="26" y="138" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">Windows networking</text>
 <text x="26" y="160" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">&amp; local diagnostics tool</text>
-<path d="M24 189H515" stroke="#45617B" opacity=".6"/><circle cx="31" cy="211" r="4.3" fill="#FFB76A"/><text x="44" y="215" font-size="12.5" font-family="ui-monospace,Consolas,monospace" letter-spacing=".4" fill="#E2EBF5">RUST  /  C  /  WINDOWS</text>
+<path d="M24 189H515" stroke="#45617B" opacity=".6"/><circle cx="31" cy="211" r="4.3" fill="#FFB76A"><animate attributeName="opacity" dur="3.4s" values=".45;1;.45" repeatCount="indefinite"/></circle><text x="44" y="215" font-size="12.5" font-family="ui-monospace,Consolas,monospace" letter-spacing=".4" fill="#E2EBF5">RUST  /  C  /  WINDOWS</text>
 <circle cx="418" cy="102" r="88" stroke="#FFB76A" opacity=".26" stroke-dasharray="4 7" fill="none"/><g transform="translate(420 104)"><path d="M-54 42L-5-45L50 32L-54 42L-5-45" fill="none" stroke="#FFB76A" stroke-width="3.5"/><circle cx="-54" cy="42" r="11" stroke="#FFB76A" stroke-width="4" fill="#112033"/><circle cx="-5" cy="-45" r="11" stroke="#FFB76A" stroke-width="4" fill="#112033"/><circle cx="50" cy="32" r="11" stroke="#FFB76A" stroke-width="4" fill="#112033"/><path d="M-35 7L-12 21L1-16L24 12L42-8" stroke="#F9BF79" stroke-width="3" fill="none"/></g>
 <path d="M485 24H510V48M484 179H512V154" stroke="#FFB76A" opacity=".47" fill="none" stroke-width="2"/>
 </g></svg>
