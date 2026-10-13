@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="445" viewBox="0 0 1200 445" role="img" aria-labelledby="title desc">
+<title id="title">Ege Çağın Tepe — Engineering beyond the demo</title>
+<desc id="desc">Editorial engineering profile banner with custom circuitry, orbit and signal motifs.</desc>
+<defs>
+ <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F1F3F2"/><stop offset=".97" stop-color="#E8EDF1"/></linearGradient>
+ <linearGradient id="metal" x1="0" y1="0" x2="1" y2=".85"><stop stop-color="#116AB3"/><stop offset=".58" stop-color="#158F82"/><stop offset="1" stop-color="#B56325"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#116AB3" stop-opacity=".21"/><stop offset="1" stop-color="#116AB3" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#CFD8DE" stroke-width="1" opacity=".35"/></pattern>
+ <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".9" fill="#5D6E7E" opacity=".2"/></pattern>
+ <clipPath id="frame"><rect width="1200" height="445" rx="21"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="445" fill="url(#base)"/>
+<rect width="1200" height="445" fill="url(#grid)" opacity=".66"/>
+<rect x="0" y="0" width="1200" height="445" fill="url(#dots)" opacity=".23"/>
+<path d="M0 0H1200V445H0Z" stroke="#CFD8DE" stroke-width="2" fill="none"/>
+<circle cx="983" cy="221" r="260" fill="url(#aura)"/>
+<path d="M69 24H393M69 24V40M810 24H1131V42M69 410V422H391M842 421H1131V400" fill="none" stroke="#5D6E7E" stroke-width="1" opacity=".43"/>
+<rect x="72" y="40" width="40" height="35" rx="7" fill="#116AB3" fill-opacity=".12" stroke="#116AB3" stroke-opacity=".7"/>
+<path d="M81 64V51H91M103 51H95V65H103" fill="none" stroke="#116AB3" stroke-width="2.5" stroke-linecap="round"/>
+<text x="126" y="61" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="2.2" fill="#5D6E7E">PORTFOLIO / 2026</text>
+<circle cx="1044" cy="57" r="5" fill="#158F82"><animate attributeName="opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite"/></circle>
+<text x="1057" y="62" font-size="12" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="1.4" fill="#5D6E7E">BUILDING</text>
+<path d="M72 105H514" stroke="#116AB3" stroke-width="2.8" opacity=".8"/>
+<path d="M517 105H549" stroke="#B56325" stroke-width="2.8"/>
+<text x="70" y="188" font-size="78" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-3.5" fill="#17283C">EGE ÇAĞIN</text>
+<text x="69" y="278" font-size="108" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="900" letter-spacing="-5" fill="url(#metal)">TEPE<tspan fill="#B56325">.</tspan></text>
+<text x="72" y="323" font-size="18" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="500" fill="#17283C">Building systems that outlive the demo.</text>
+<text x="73" y="349" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" fill="#5D6E7E" letter-spacing="1">SOFTWARE  /  EMBEDDED  /  PRODUCT</text>
+<rect x="72" y="380" width="166" height="26" rx="6" fill="#116AB3" fill-opacity=".1" stroke="#116AB3" stroke-opacity=".38"/>
+<text x="85" y="398" font-size="11" font-family="ui-monospace,Consolas,monospace" fill="#116AB3" letter-spacing=".9">EE ENGINEERING ↗</text>
+<rect x="249" y="380" width="152" height="26" rx="6" fill="#158F82" fill-opacity=".09" stroke="#158F82" stroke-opacity=".36"/>
+<text x="262" y="398" font-size="11" font-family="ui-monospace,Consolas,monospace" fill="#158F82" letter-spacing=".9">ANKARA, TR  /  06</text>
+<!-- RIGHT SIDE: schematic portrait of interconnected layers -->
+<g transform="translate(964 228)">
+<circle r="171" stroke="#116AB3" opacity=".19" stroke-width="1" fill="none"/>
+<circle r="146" stroke="#116AB3" opacity=".46" stroke-width="1" stroke-dasharray="4 9" fill="none"/>
+<circle r="119" stroke="#5D6E7E" opacity=".37" fill="none"/>
+<circle r="87" stroke="#158F82" opacity=".55" stroke-width="1.5" fill="none"/>
+<circle r="65" stroke="#116AB3" opacity=".38" fill="none" stroke-dasharray="4 6"/>
+<path d="M-183 0H183M0-181V181" stroke="#5D6E7E" stroke-width="1" opacity=".16"/>
+<path d="M-131-106L-86-67M111-95L72-62M-146 87L-80 47M119 95L72 53" stroke="#158F82" stroke-width="1.3" opacity=".47"/>
+<circle cx="-131" cy="-106" r="4" fill="#B56325"/><circle cx="111" cy="-95" r="4" fill="#116AB3"/><circle cx="-146" cy="87" r="4" fill="#116AB3"/><circle cx="119" cy="95" r="4" fill="#158F82"/>
+<g transform="rotate(-24)">
+<rect x="-58" y="-58" width="116" height="116" rx="14" fill="#FFFFFF" stroke="#116AB3" stroke-width="2"/>
+<rect x="-41" y="-41" width="82" height="82" rx="8" fill="#116AB3" fill-opacity=".08" stroke="#116AB3" stroke-opacity=".3"/>
+<path d="M-22-4H-10L-1-23L11 23L21-5H35" fill="none" stroke="#158F82" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-22" cy="-4" r="4.3" fill="#B56325"/><circle cx="35" cy="-5" r="4.3" fill="#B56325"/>
+<path d="M-37 -58V-73 M-37 58V73 M-58 -37H-73 M58 -37H73" stroke="#116AB3" stroke-width="2" opacity=".7"/><path d="M-13 -58V-73 M-13 58V73 M-58 -13H-73 M58 -13H73" stroke="#116AB3" stroke-width="2" opacity=".7"/><path d="M13 -58V-73 M13 58V73 M-58 13H-73 M58 13H73" stroke="#116AB3" stroke-width="2" opacity=".7"/><path d="M37 -58V-73 M37 58V73 M-58 37H-73 M58 37H73" stroke="#116AB3" stroke-width="2" opacity=".7"/>
+</g>
+<path d="M-74 -117A140 140 0 0 1 62-126" stroke="#B56325" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M74 118A140 140 0 0 1-70 120" stroke="#158F82" stroke-width="4" fill="none" stroke-linecap="round"/>
+<circle cx="-74" cy="-117" r="6" fill="#B56325"/>
+<circle cx="74" cy="118" r="6" fill="#158F82"/>
+<text x="-161" y="-165" font-size="11" font-family="ui-monospace,Consolas,monospace" fill="#5D6E7E" letter-spacing="1.5">SIGNAL / 01</text>
+<text x="42" y="174" font-size="11" font-family="ui-monospace,Consolas,monospace" fill="#5D6E7E" letter-spacing="1.5">STATE / READY</text>
+</g>
+<text x="556" y="397" font-size="10" font-family="ui-monospace,Consolas,monospace" fill="#5D6E7E" letter-spacing="2" opacity=".75">DESIGNED TO BE UNDERSTOOD. BUILT TO BE TESTED.</text>
+<g transform="translate(964 228)" fill="none" pointer-events="none">
+<circle r="154" stroke="#1474AC" stroke-width="2.5" stroke-dasharray="5 23" opacity=".44">
+<animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/>
+</circle>
+<circle r="4.5" cx="148" cy="0" fill="#1474AC" opacity=".9">
+<animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="-360" dur="25s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/>
+</circle></g></g></svg>

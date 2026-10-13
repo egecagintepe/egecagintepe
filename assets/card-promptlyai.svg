@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="234" viewBox="0 0 540 234" role="img" aria-label="PROMPTLYAI project card">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1B2C"/><stop offset="1" stop-color="#172C42"/></linearGradient><radialGradient id="gl"><stop stop-color="#B2A7FF" stop-opacity=".2"/><stop offset="1" stop-color="#B2A7FF" stop-opacity="0"/></radialGradient><pattern id="g" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" stroke="#29445D" stroke-width=".6" opacity=".6" fill="none"/></pattern></defs>
+<rect x="1" y="1" width="538" height="232" rx="18" fill="url(#b)" stroke="#36536B" stroke-width="1.2"/>
+<g><rect x="2" y="2" width="536" height="230" rx="18" fill="url(#g)" opacity=".45"/><circle cx="418" cy="100" r="137" fill="url(#gl)"/><path d="M24 53H178" stroke="#B2A7FF" stroke-width="2.5" opacity=".9"/><text x="24" y="37" font-size="12" font-family="ui-monospace,Consolas,monospace" letter-spacing="2" fill="#B2A7FF">06  /  TEAM PROJECT</text>
+<text x="24" y="106" font-size="40" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-1" fill="#F5F8FF">PROMPTLYAI</text>
+<text x="26" y="138" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">Prompt quality and</text>
+<text x="26" y="160" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">guided AI dialogue</text>
+<path d="M24 189H515" stroke="#45617B" opacity=".6"/><circle cx="31" cy="211" r="4.3" fill="#B2A7FF"><animate attributeName="opacity" dur="3.4s" values=".45;1;.45" repeatCount="indefinite"/></circle><text x="44" y="215" font-size="12.5" font-family="ui-monospace,Consolas,monospace" letter-spacing=".4" fill="#E2EBF5">FASTAPI  /  LLM  /  SQLITE</text>
+<circle cx="418" cy="102" r="88" stroke="#B2A7FF" opacity=".26" stroke-dasharray="4 7" fill="none"/><g transform="translate(420 104)">
+<rect x="-73" y="-49" width="115" height="72" rx="12" fill="#152D45" stroke="#B2A7FF" stroke-width="3"/>
+<rect x="-27" y="-5" width="99" height="66" rx="12" fill="#152D45" stroke="#73E3D0" stroke-width="3"/>
+<path d="M-56 -28H18M-56 -13H4" stroke="#B2A7FF" opacity=".72" stroke-width="4" stroke-linecap="round"/>
+<path d="M-7 18H49M-7 34H36" stroke="#73E3D0" opacity=".83" stroke-width="4" stroke-linecap="round"/>
+<path d="M-24 47L-40 62V47" stroke="#73E3D0" stroke-width="3" fill="none"/>
+<circle cx="35" cy="-49" r="5" fill="#F9BF79"><animate attributeName="opacity" dur="2.5s" values=".35;1;.35" repeatCount="indefinite"/></circle>
+</g><path d="M485 24H510V48M484 179H512V154" stroke="#B2A7FF" opacity=".47" fill="none" stroke-width="2"/>
+</g></svg>
