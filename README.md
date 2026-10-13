@@ -92,6 +92,8 @@ Not a badge collection. These are the languages, tools and systems I use across 
 
 ### 03 / GITHUB ACTIVITY
 
+<!-- Dynamic stat panels use third-party renderers; custom illustrations and GIF are self-hosted. -->
+
 <div align="center">
 
 <table><tr>
