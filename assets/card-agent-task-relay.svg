@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="234" viewBox="0 0 540 234" role="img" aria-label="AGENT TASK RELAY project card">
+<defs>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1B2C"/><stop offset="1" stop-color="#172C42"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#73E3D0" stop-opacity=".19"/><stop offset="1" stop-color="#73E3D0" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" stroke="#29445D" stroke-width=".6" opacity=".6" fill="none"/></pattern>
+</defs>
+<rect x="1" y="1" width="538" height="232" rx="18" fill="url(#base)" stroke="#36536B" stroke-width="1.2"/>
+<rect x="2" y="2" width="536" height="230" rx="18" fill="url(#grid)" opacity=".45"/>
+<circle cx="418" cy="100" r="137" fill="url(#glow)"/>
+<path d="M24 53H178" stroke="#73E3D0" stroke-width="2.5" opacity=".9"/>
+<text x="24" y="37" font-size="12" font-family="ui-monospace,Consolas,monospace" letter-spacing="1.7" fill="#73E3D0">05  /  AGENT SYSTEMS</text>
+<text x="24" y="106" font-size="30" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-1" fill="#F5F8FF">AGENT TASK RELAY</text>
+<text x="26" y="138" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">Git-based AI-to-agent</text>
+<text x="26" y="160" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">task handoff &amp; control</text>
+<path d="M24 189H515" stroke="#45617B" opacity=".6"/>
+<circle cx="31" cy="211" r="4.3" fill="#73E3D0"><animate attributeName="opacity" dur="3.4s" values=".45;1;.45" repeatCount="indefinite"/></circle>
+<text x="44" y="215" font-size="12.5" font-family="ui-monospace,Consolas,monospace" letter-spacing=".4" fill="#E2EBF5">PYTHON  /  GIT  /  AGENTS</text>
+<circle cx="418" cy="102" r="88" stroke="#73E3D0" opacity=".26" stroke-dasharray="4 7" fill="none"/>
+<g transform="translate(420 99)" fill="none" stroke="#73E3D0" stroke-linecap="round" stroke-linejoin="round">
+<rect x="-67" y="-54" width="67" height="62" rx="11" stroke-width="3.5" fill="#73E3D0" fill-opacity=".06"/>
+<path d="M-53-37H-17M-53-22H-33M-53-7H-23" stroke-width="3"/>
+<rect x="19" y="9" width="66" height="59" rx="11" stroke-width="3.5" fill="#73E3D0" fill-opacity=".06"/>
+<path d="M33 28L45 39L68 21M35 53H67" stroke-width="3"/>
+<path d="M-5-25H30Q43-25 43-12V3" stroke-width="3.5" stroke-dasharray="6 8"/>
+<path d="M34-2L43 8L52-2" stroke-width="3.5"/>
+</g>
+<path d="M485 24H510V48M484 179H512V154" stroke="#73E3D0" opacity=".47" fill="none" stroke-width="2"/>
+</svg>
