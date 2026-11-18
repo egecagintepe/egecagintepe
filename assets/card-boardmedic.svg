@@ -1,11 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="234" viewBox="0 0 540 234" role="img" aria-label="BOARDMEDIC project card">
-<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1B2C"/><stop offset="1" stop-color="#172C42"/></linearGradient><radialGradient id="gl"><stop stop-color="#65DFCB" stop-opacity=".2"/><stop offset="1" stop-color="#65DFCB" stop-opacity="0"/></radialGradient><pattern id="g" width="29" height="29" patternUnits="userSpaceOnUse"><path d="M29 0H0V29" stroke="#29445D" stroke-width=".6" opacity=".6" fill="none"/></pattern></defs>
-<rect x="1" y="1" width="538" height="232" rx="18" fill="url(#b)" stroke="#36536B" stroke-width="1.2"/>
-<g><rect x="2" y="2" width="536" height="230" rx="18" fill="url(#g)" opacity=".45"/><circle cx="418" cy="100" r="137" fill="url(#gl)"/><path d="M24 53H178" stroke="#65DFCB" stroke-width="2.5" opacity=".9"/><text x="24" y="37" font-size="12" font-family="ui-monospace,Consolas,monospace" letter-spacing="2" fill="#65DFCB">02  /  OPEN SOURCE</text>
-<text x="24" y="106" font-size="40" font-family="Inter,Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-1" fill="#F5F8FF">BOARDMEDIC</text>
-<text x="26" y="138" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">Embedded board diagnostics</text>
-<text x="26" y="160" font-size="16" font-family="Inter,Arial,Helvetica,sans-serif" fill="#B2C4D6">with safety-first recovery</text>
-<path d="M24 189H515" stroke="#45617B" opacity=".6"/><circle cx="31" cy="211" r="4.3" fill="#65DFCB"><animate attributeName="opacity" dur="3.4s" values=".45;1;.45" repeatCount="indefinite"/></circle><text x="44" y="215" font-size="12.5" font-family="ui-monospace,Consolas,monospace" letter-spacing=".4" fill="#E2EBF5">PYTHON  /  RK3568  /  CI</text>
-<circle cx="418" cy="102" r="88" stroke="#65DFCB" opacity=".26" stroke-dasharray="4 7" fill="none"/><g transform="translate(420 104)"><rect x="-57" y="-52" width="114" height="104" rx="9" fill="none" stroke="#65DFCB" stroke-width="4"/><path d="M-40 2H-18L-8-18L10 27L24 2H41" fill="none" stroke="#65DFCB" stroke-width="5" stroke-linejoin="round"/><path d="M-37 -52V-68 M-37 52V68" stroke="#65DFCB" stroke-width="3"/><path d="M0 -52V-68 M0 52V68" stroke="#65DFCB" stroke-width="3"/><path d="M37 -52V-68 M37 52V68" stroke="#65DFCB" stroke-width="3"/></g>
-<path d="M485 24H510V48M484 179H512V154" stroke="#65DFCB" opacity=".47" fill="none" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="238" viewBox="0 0 540 238" role="img" aria-label="BOARDMEDIC — project portfolio card">
+<defs>
+<linearGradient id="back" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B192A"/><stop offset="1" stop-color="#172E44"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#7AE3C6" stop-opacity=".19"/><stop offset="1" stop-color="#7AE3C6" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="31" height="31" patternUnits="userSpaceOnUse"><path d="M31 0H0V31" stroke="#416078" opacity=".34" stroke-width=".65" fill="none"/></pattern>
+<clipPath id="mask"><rect x="1" y="1" width="538" height="236" rx="17"/></clipPath>
+</defs>
+<g clip-path="url(#mask)">
+<rect x="1" y="1" width="538" height="236" rx="17" fill="url(#back)" stroke="#3C566C" stroke-width="1.25"/>
+<rect width="540" height="238" fill="url(#grid)" opacity=".6"/>
+<circle cx="420" cy="111" r="146" fill="url(#glow)"/>
+<path d="M25 53H176" stroke="#7AE3C6" stroke-width="2.5"/>
+<text x="25" y="37" font-family="Consolas,monospace" font-size="11.8" letter-spacing="1.1" fill="#7AE3C6">TOOLKIT  /  EMBEDDED</text>
+<text x="25" y="109" font-family="Arial,Helvetica,sans-serif" font-size="37" letter-spacing="-1.25" font-weight="800" fill="#F3F8FF">BOARDMEDIC</text>
+<text x="27" y="144" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#B8CDDF">Board diagnostics &amp;</text>
+<text x="27" y="167" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#B8CDDF">recovery safeguards</text>
+<circle cx="421" cy="111" r="89" stroke="#7AE3C6" stroke-width="1.4" opacity=".34" stroke-dasharray="4 9" fill="none"/>
+<g transform="translate(419 111)" fill="none" stroke="#7AE3C6" stroke-width="3" stroke-linejoin="round"><rect x="-52" y="-52" width="104" height="104" rx="13"/><rect x="-36" y="-35" width="72" height="70" rx="8" stroke-opacity=".4"/><path d="M-17-16H17M0-33V2M-20 18H-3L6 5L17 18H29" stroke-width="4"/><path d="M-68-29H-54M-68-9H-54M-68 12H-54M-68 32H-54M54-29H68M54-9H68M54 12H68M54 32H68M-28-68V-54M-7-68V-54M13-68V-54M33-68V-54M-28 54V68M-7 54V68M13 54V68M33 54V68" stroke-width="3"/></g>
+<path d="M24 193H516" stroke="#42637C" stroke-width="1" opacity=".65"/>
+<circle cx="31" cy="215" r="4" fill="#7AE3C6"/>
+<text x="45" y="220" font-family="Consolas,monospace" font-size="11.6" letter-spacing=".42" fill="#DFEBF3">PYTHON  ·  UART  ·  OFFLINE</text>
+<path d="M482 21H515V54M482 180H515V147" stroke="#7AE3C6" fill="none" opacity=".42" stroke-width="1.8"/>
 </g></svg>
