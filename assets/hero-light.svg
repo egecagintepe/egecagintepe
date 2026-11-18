@@ -18,7 +18,7 @@
 <path d="M69 24H393M69 24V40M810 24H1131V42M69 410V422H391M842 421H1131V400" fill="none" stroke="#5D6E7E" stroke-width="1" opacity=".43"/>
 <rect x="72" y="40" width="40" height="35" rx="7" fill="#116AB3" fill-opacity=".12" stroke="#116AB3" stroke-opacity=".7"/>
 <path d="M81 64V51H91M103 51H95V65H103" fill="none" stroke="#116AB3" stroke-width="2.5" stroke-linecap="round"/>
-<text x="126" y="61" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="2.2" fill="#5D6E7E">PORTFOLIO / 2026</text>
+<text x="126" y="61" font-size="13" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="2.2" fill="#5D6E7E">ENGINEERING / PORTFOLIO</text>
 <circle cx="1044" cy="57" r="5" fill="#158F82"><animate attributeName="opacity" values=".45;1;.45" dur="3s" repeatCount="indefinite"/></circle>
 <text x="1057" y="62" font-size="12" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" letter-spacing="1.4" fill="#5D6E7E">BUILDING</text>
 <path d="M72 105H514" stroke="#116AB3" stroke-width="2.8" opacity=".8"/>
